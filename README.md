@@ -1,2 +1,1 @@
-# Iphone-15clone
-Iphone 15 clone , using three.js and gsap
+# list of Gsoc orgainzations along with many more features
